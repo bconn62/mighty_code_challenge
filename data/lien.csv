@@ -1,0 +1,9 @@
+id,case_id,description,open,lienholder_id
+83,27,"this is the first lien on the case , valued at 6000",OPEN,74
+47,27,second lien on the case,OPEN,74
+9,60,"this interest has settled, waiting for payment",CLOSED,74
+57,81,700,OPEN,74
+21,59,"value is 100,000 pay off is expected to be taken at a reduction",OPEN,74
+74,18,"bought at 30% of value, value is 300",OPEN,74
+27,85,values is 400,CLOSED,74
+56,78,plaintiff is requesting additional liens,OPEN,74
